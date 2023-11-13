@@ -12,7 +12,7 @@ This task involves demonstrating the utilization of AWS by a DevOps professional
     - **AWS RDS**: Optionally serves as the host for the database in a more secure configuration.
 - **Dbeaver for Database**
 - **Terminal for Linux**
-# Step-by-Step List
+# Step-by-Step List:
 - [Create VPC with Two Public Subnets](#create-vpc-with-two-public-subnets)
 - [IAM Role for S3 Access](#iam-role-for-s3-access)
 - [Launch an EC2 Instance](#launch-an-ec2-instance)
