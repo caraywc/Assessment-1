@@ -14,6 +14,26 @@ This task involves demonstrating the utilization of AWS by a DevOps professional
 - **Terminal for Linux**
 # Step-by-Step List
 - [Step-By-Step Instruction Guide](#step-by-step-instruction-guide)
+- [Assessment 1 - Twoge](#assessment-1---twoge)
+- [Development Tools](#development-tools)
+- [Step-by-Step Instruction Guide](#step-by-step-instruction-guide)
+- [Create VPC with Two Public Subnets](#create-vpc-with-two-public-subnets)
+  - [Enable DNS hostnames and resolution](#enable-dns-hostnames-and-resolution)
+  - [Create Subnet1](#create-subnet1)
+  - [Create Subnet2](#create-subnet2)
+  - [Create Internet Gateway and Attach to VPC](#create-internet-gateway-and-attach-to-vpc)
+  - [Create Route Table](#create-route-table)
+  - [Subnet Associate with Route Table](#subnet-associate-with-route-table)
+- [IAM Role for S3 Access](#iam-role-for-s3-access)
+- [Launch an EC2 Instance](#launch-an-ec2-instance)
+- [Create an S3 Bucket for Static Files](#create-an-s3-bucket-for-static-files)
+- [Deploy RDS](#deploy-rds)
+- [Deploy Twoge to EC2](#deploy-twoge-to-ec2)
+- [Create Application Load Balancer (ALB)](#create-application-load-balancer-alb)
+- [Create an Auto Scaling Group (ASG)](#create-an-auto-scaling-group-asg)
+- [Creating a Dynamic Scaling Policy for your Auto Scaling Group (ASG)](#creating-a-dynamic-scaling-policy-for-your-auto-scaling-group-asg)
+- [Run the Instance Stress Python Script](#run-the-instance-stress-python-script)
+
 # Create VPC with Two Public Subnets
 * Open the Amazon VPC. >> **Create VPC**.
 * **VPC settings**: 
