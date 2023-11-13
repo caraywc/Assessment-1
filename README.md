@@ -13,9 +13,6 @@ This task involves demonstrating the utilization of AWS by a DevOps professional
 - **Dbeaver for Database**
 - **Terminal for Linux**
 # Step-by-Step List
-- [Assessment 1 - Twoge](#assessment-1---twoge)
-- [Development Tools](#development-tools)
-- [Step-by-Step Instruction Guide](#step-by-step-instruction-guide)
 - [Create VPC with Two Public Subnets](#create-vpc-with-two-public-subnets)
 - [IAM Role for S3 Access](#iam-role-for-s3-access)
 - [Launch an EC2 Instance](#launch-an-ec2-instance)
