@@ -295,6 +295,9 @@ This step  is to test see if the system can handle high load traffic, run follow
    
 ```
 
+# Appendix
+![Architecture Diagram](AWS%20Twoge.png)
+
 
 
 
